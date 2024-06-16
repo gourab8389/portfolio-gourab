@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link:"https://github.com/gourab8389"
   },
   {
     id: 2,
     img: "/twit.svg",
+    link:"https://github.com/gourab8389"
   },
   {
     id: 3,
     img: "/link.svg",
+    link:"https://www.linkedin.com/in/gourab-dey-1b2b8928a/"
   },
 ];
