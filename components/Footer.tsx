@@ -12,7 +12,7 @@ const Footer = () => {
         <p className='text-white-200 md:mt-10 my-5 text-center'>Reach out me today let&apos;s discuss how I can help to achive your goals.</p>
         <a href="mailto:deyg6988@gmail.com">
             <MagicButton
-            title="Let's get i touch"
+            title="Let's get a touch"
             icon={<FaLocationArrow/>}
             position='right'
             />
