@@ -135,19 +135,19 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Gourab was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Gourab's enthusiasm for every facet of development truly stands out.",
     name: "XYZ",
     title: "Director of XYZ",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Gourab was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Gourab's enthusiasm for every facet of development truly stands out.",
     name: "XYZ",
     title: "Director of XYZ",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Gourab was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Gourab's enthusiasm for every facet of development truly stands out.",
     name: "XYZ",
     title: "Director of XYZ",
   },
