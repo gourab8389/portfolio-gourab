@@ -130,7 +130,8 @@ export const testimonials = [
   {
     quote:
       "Great to working with you. Lot of experience working with together...",
-    title: "Co-founder of Devcommune",
+      name:"Aritra Dey",
+    title: "Co-founder of Devhut",
   },
   {
     quote:
