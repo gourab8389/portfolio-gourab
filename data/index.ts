@@ -72,68 +72,83 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "AI Content Generator",
+    des: "Generate high-quality content on more than 50 topics effortlessly",
+    img: "/AI-content1.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/c.svg", "/fm.svg"],
+    link: "https://quill-ai-bz5w.vercel.app/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "Eventsy",
+    des: "Eventsy, Join with us and create your event and explore to all.",
+    img: "/eventsy.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg"],
+    link: "https://eventsy.exions.xyz",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
+    title: "Imaginify",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://imaginify.exions.xyz/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "Soloplay",
+    des: "Game hub, my first Next.js website",
+    img: "/soloplay.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://game-hub.exions.xyz/",
+  },
+  {
+    id: 5,
+    title: "Travel-Web",
+    des: "Connect to your destination",
+    img: "/travel.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://travel-web.exions.xyz/",
+  },
+  {
+    id: 6,
+    title: "Search-Ingine",
+    des: "AI-image search ingine",
+    img: "/search-engine.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://search-engine-a26m.vercel.app/",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Gourab was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Gourab's enthusiasm for every facet of development truly stands out.",
+    name: "Satyajit Chakrabarty",
+    title: "Director of UEM Kolkata",
+  },
+  {
+    quote:
+      "Great to working with you. Lot of experience working with together...",
+    title: "Co-founder of Devcommune",
   },
   {
     quote:
       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "XYZ",
+    title: "Director of XYZ",
   },
   {
     quote:
       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "XYZ",
+    title: "Director of XYZ",
   },
   {
     quote:
       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "XYZ",
+    title: "Director of XYZ",
   },
 ];
 
