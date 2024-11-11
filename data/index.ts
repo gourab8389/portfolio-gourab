@@ -80,11 +80,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Eventsy",
-    des: "Eventsy, Join with us and create your event and explore to all.",
-    img: "/eventsy.png",
+    title: "Management Dashboard",
+    des: "Dashboard for managing events and users",
+    img: "/management.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg"],
-    link: "https://eventsy.exions.xyz",
+    link: "https://dashboard.exions.tech/",
   },
   {
     id: 3,
